@@ -22,10 +22,17 @@ Welcome to my data analyst portfolio. I turn data into insights and stories that
 
 ## 🛠️ Tools & Skills
 
-**Languages:** Python, SQL, DAX  
-**Tools:** Power BI, Excel, Tableau, Jupyter Notebooks ,Domo 
-**Libraries:** Pandas, Numpy, Seaborn, Matplotlib,scikit-learn  
-**Other:** Git, GitHub, Data Cleaning, EDA, Reporting
+**Languages:** 
+Python, SQL, DAX 
+
+**Tools:** 
+Power BI, Excel, Tableau, Jupyter Notebooks,Domo 
+
+**Libraries:** 
+Pandas, Numpy, Seaborn, Matplotlib,scikit-learn  
+
+**Other:** 
+Git, GitHub, Data Cleaning, EDA, Reporting
 
 ---
 
